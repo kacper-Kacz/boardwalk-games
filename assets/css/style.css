@@ -1,0 +1,10 @@
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400..900&family=Macondo&display=swap');
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-family: "Macondo", cursive;
+}
